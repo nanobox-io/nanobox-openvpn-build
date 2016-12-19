@@ -1,0 +1,5 @@
+.vagrant
+certs
+dist
+windows/codesign.p12
+mac/MacOSX10*
